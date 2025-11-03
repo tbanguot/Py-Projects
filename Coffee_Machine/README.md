@@ -1,4 +1,4 @@
-Coffee Machine Program
+# Coffee Machine Program
 A Python-based coffee machine simulator that allows users to order beverages, processes payments, and manages resource inventory.
 
 Features
