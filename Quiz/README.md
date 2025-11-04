@@ -1,4 +1,4 @@
-#Quiz Trivia Game
+# Quiz Trivia Game
 A simple Python-based trivia quiz game that tests your knowledge with true/false questions across various topics.
 
 ## Description
