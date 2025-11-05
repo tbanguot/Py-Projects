@@ -29,43 +29,45 @@ View your updated score after each question
 Complete all questions to see your final score
 
 ## Sample Gameplay
-text
-Q.1 Rabbits are carnivores. True/False?: True
-Wrong Answer!
-The correct answer is: False
-Your score is: 0/1
+>Q.1 Rabbits are carnivores. True/False?: True
+>Wrong Answer!
+>The correct answer is: False
+>Your score is: 0/1
 
-Q.2 The Axolotl is an amphibian that can spend its whole life in a larval state. True/False?: True
-You got it right!
-The correct answer is True
-Your score is: 1/2
+>Q.2 The Axolotl is an amphibian that can spend its whole life in a larval state. True/False?: True
+>You got it right!
+>The correct answer is True
+>Your score is: 1/2
 
-Q.3 Cats have whiskers under their legs. True/False?: True
-You got it right!
-The correct answer is True
-Your score is: 2/3
-Project Structure
-text
-quiz-trivia/
-├── quiz_game.py      # Main game script
-├── README.md         # Project documentation
-└── requirements.txt  # Python dependencies (if any)
-Requirements
-Python 3.x
+>Q.3 Cats have whiskers under their legs. True/False?: True
+>You got it right!
+>The correct answer is True
+>Your score is: 2/3
+
+### Project Structure
+
+> quiz-trivia/
+> _├── quiz_game.py      # Main game script_
+> _├── README.md         # Project documentation_
+> _└── requirements.txt  # Python dependencies (if any)_
+
+### Requirements
+**Python 3.x**
 
 No external dependencies required
 
 Installation
-Clone the repository:
+_Clone the repository:_
 
-bash
-git clone https://github.com/tbanguot/Py-Projects.git
-cd Py-Projects/quiz-trivia
-Run the game:
+**bash**
+_git clone https://github.com/tbanguot/Py-Projects.git_
+_cd Py-Projects/quiz-trivia_
+**Run the game:**
 
-bash
-python quiz_game.py
-Game Logic
+**bash**
+_python quiz_game.py_
+
+### Game Logic
 The program:
 
 Presents questions one at a time
