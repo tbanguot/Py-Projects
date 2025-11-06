@@ -99,10 +99,7 @@ This project is open source and available under the [MIT License]().
 * Adjust the screen size if the painting doesn't fit properly  
 
 
-
-
-
-
+##
 _Enjoy creating your own Hirst-inspired digital art! 🎨_
 
 
