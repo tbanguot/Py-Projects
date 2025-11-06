@@ -96,7 +96,10 @@ This project is open source and available under the [MIT License]().
 
 * For color extraction issues, verify the image path and format are correct
 
-* Adjust the screen size if the painting doesn't fit properly
+* Adjust the screen size if the painting doesn't fit properly  
+
+
+
 
 
 
