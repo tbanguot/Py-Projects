@@ -33,5 +33,43 @@ A Python program that recreates a Damien Hirst-style spot painting using the Tur
 1. Clone or download this repository
 
 2. Install the required package:
-     > _pip install colorgram.py_
+     > pip install colorgram.py
+
+## Usage
+
+### Basic Usage
+Run the main program to generate a Hirst-style painting
+ > python main.py
+
+## Customization
+Customization
+You can modify the following parameters in hirst_painting.py
+
+* DOT_SIZE: Diameter of each dot (default: 22)
+
+* SPACING: Space between dots (default: 50)
+
+* GRID_SIZE: Number of rows and columns (default: 10x10)
+
+* COLOR_PALETTE: List of colors to use
+
+## Color Extraction
+To extract colors from an image:
+
+1. Place your image in the project directory
+
+2. Use the color extraction module:
+
+    >
+    >from color_extraction import extract_colors
+    >colors = extract_colors('your_image.jpg', number_of_colors=30)
+    >
+## Output
+The program will open a Turtle graphics window displaying the generated spot painting. The painting consists of a grid of colored dots with the specified color palette.
+
+### Example output
+ ![Hirst Painting](./image.jpg)
+
+
+
 
