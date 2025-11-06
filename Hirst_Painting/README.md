@@ -68,7 +68,40 @@ To extract colors from an image:
 The program will open a Turtle graphics window displaying the generated spot painting. The painting consists of a grid of colored dots with the specified color palette.
 
 ### Example output
- ![Hirst Painting](./image.jpg)
+ ![Hirst Painting](./output01.png)
+
+## Contributing
+Feel free to contribute to this project by:
+
+Adding new color palettes
+
+Implementing additional features
+
+Improving the documentation
+
+Fixing bugs
+
+## License
+This project is open source and available under the [MIT License]().
+
+## Acknowledgments
+* Inspired by Damien Hirst's spot paintings
+
+* Uses the Turtle graphics library for visualization
+
+* Color extraction powered by colorgram.py
+
+## Troubleshooting
+* If the Turtle window doesn't appear, ensure your Python installation includes Tkinter
+
+* For color extraction issues, verify the image path and format are correct
+
+* Adjust the screen size if the painting doesn't fit properly
+
+
+
+_Enjoy creating your own Hirst-inspired digital art! 🎨_
+
 
 
 
